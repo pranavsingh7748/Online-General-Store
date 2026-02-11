@@ -1,32 +1,31 @@
 # Online General Store 🛒
 
-[cite_start]An interactive and responsive e-commerce web application developed as a Bachelor of Technology minor project at **Lakshmi Narain University (LNCTU), Bhopal**[cite: 233, 237].
+A modern, responsive e-commerce web application designed to provide a seamless online grocery shopping experience. This project focuses on a user-friendly interface, efficient product categorization, and smooth navigation for daily essentials.
 
 ## 📌 Project Overview
-The **Online General Store** is a web-based platform designed to streamline the grocery shopping experience. [cite_start]It provides a user-friendly interface for browsing daily essentials, managing a digital shopping cart, and exploring categorized product offerings[cite: 111, 112].
+The **Online General Store** is a digital platform that allows users to browse a wide variety of household items, groceries, and specialized goods. The application is built with a focus on clean UI/UX, ensuring that customers can find and select products with ease.
 
-## 🚀 Features
-* [cite_start]**Responsive Navigation**: A modern navigation bar featuring links to Home, Categories, Packages, and App download sections[cite: 111].
-* [cite_start]**Smart Search**: A dedicated search banner that allows users to quickly find specific groceries like vegetables, fruits, and household items[cite: 112].
-* **Product Categorization**: Items are organized into intuitive sections such as:
-    * [cite_start]Fish & Meat [cite: 112]
-    * [cite_start]Vegetables [cite: 112]
-    * [cite_start]Utensils [cite: 112]
-    * [cite_start]Gardening [cite: 112]
-* [cite_start]**Shopping Cart & Wishlist**: Interactive elements including a cart counter and a wishlist feature for a personalized shopping experience[cite: 111].
-* [cite_start]**Popular Bundles**: Dedicated sections for special product packs like "Seeds and Dry Fruits"[cite: 113, 114].
-* [cite_start]**Client Testimonials**: A feedback section showcasing ratings and reviews from regular users[cite: 115].
-* [cite_start]**Partner Showcase**: Highlights trusted partners and major companies associated with the platform[cite: 117].
+## 🚀 Key Features
+* **Responsive UI**: Fully optimized for various screen sizes, providing a consistent experience on desktops, tablets, and mobile devices.
+* **Dynamic Product Categories**: Items are organized into intuitive sections for better discoverability:
+    * **Daily Fresh**: Fruits and Vegetables.
+    * **Protein & Meat**: Fish and Meat sections.
+    * **Household Essentials**: Kitchen Utensils and Gardening tools.
+* **Search Functionality**: A prominent search feature to help users locate specific items instantly.
+* **Interactive Shopping Experience**: Includes "Add to Cart" functionality, price displays, and hover-interactive product cards.
+* **Specialized Bundles**: Dedicated sections for "Seed & Dry Fruit" packages and other curated product bundles.
+* **Customer Feedback Section**: A testimonial area to display user reviews and ratings.
 
 ## 🛠️ Tech Stack
-This project follows a "Skeleton, Paint, and Engine" architecture:
-* [cite_start]**HTML5 (The Skeleton)**: Defines the core structure and layout of the web pages[cite: 315, 334].
-* [cite_start]**CSS3 (The Paint)**: Enhances visual appeal through custom styling, Flexbox/Grid layouts, and responsive design[cite: 335, 68].
-* [cite_start]**JavaScript (The Engine)**: Powers interactivity and dynamic elements like buttons and search functionality[cite: 336].
-* [cite_start]**Libraries & Icons**: Uses Font Awesome for iconography and Google Fonts (Poppins) for modern typography[cite: 111].
+The project is built using a standard web development architecture:
+* **HTML5**: For structured content and the core skeleton of the application.
+* **CSS3**: For custom styling, animations, and responsive layouts (Flexbox/Grid).
+* **JavaScript (ES6+)**: For DOM manipulation, interactive elements, and dynamic UI updates.
+* **Iconography & Typography**: Integrated with Font Awesome and Google Fonts for a professional aesthetic.
 
 ## 📂 Project Structure
 ```text
-├── index.html      # Main homepage and UI structure
-├── style.css       # Custom styles and responsive layouts
-└── images/         # Product images and brand assets
+├── index.html      # Main entry point and layout
+├── style.css       # Global styles and media queries
+├── script.js      # Interactive logic and UI behavior
+└── assets/         # Images, icons, and product media
